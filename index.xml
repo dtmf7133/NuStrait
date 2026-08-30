@@ -1300,7 +1300,7 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <INDEX>51</INDEX>
   </ITEM>
   <ITEM>
-    <ID>51</ID>
+    <ID>52</ID>
     <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[LittleRecaptcha]]></PROJECT>
     <PROJECTURL>https://github.com/dtmf7133/LittleRecaptcha</PROJECTURL>
@@ -1322,10 +1322,10 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TYPE>project</TYPE>
     <CAT>info</CAT>
     <TAGS>littlerecaptcha simple recaptcha mit php</TAGS>
-    <INDEX>51</INDEX>
+    <INDEX>52</INDEX>
   </ITEM>
   <ITEM>
-    <ID>52</ID>
+    <ID>53</ID>
     <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[NuStrait]]></PROJECT>
     <PROJECTURL>https://github.com/dtmf7133/NuStrait</PROJECTURL>
@@ -1347,10 +1347,10 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TYPE>project</TYPE>
     <CAT>info</CAT>
     <TAGS>nustrait github web frontend onpremise xml xslt</TAGS>
-    <INDEX>52</INDEX>
+    <INDEX>53</INDEX>
   </ITEM>
   <ITEM>
-    <ID>53</ID>
+    <ID>54</ID>
     <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[qrc]]></PROJECT>
     <PROJECTURL>https://github.com/dtmf7133/qrc</PROJECTURL>
@@ -1372,6 +1372,6 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TYPE>project</TYPE>
     <CAT>info</CAT>
     <TAGS>qrc website  qrcode  web2qrc</TAGS>
-    <INDEX>53</INDEX>
+    <INDEX>54</INDEX>
   </ITEM>
 </CONTENT>
