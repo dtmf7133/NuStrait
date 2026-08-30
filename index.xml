@@ -52,6 +52,31 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
   <ITEM>
     <ID>2</ID>
     <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[IntranetLo]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/IntranetLo</PROJECTURL>
+    <DESC><![CDATA[Intranet simplified to an XSLT pair of files - GPL]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/IntranetLo/archive/refs/tags/v1.0.5.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/IntranetLo/archive/refs/tags/v1.0.5.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[English homepage]]></SEE1>
+    <SEEURL1>https://intranetlo.numode-lab.eu/</SEEURL1>
+    <SEE2/>
+    <SEEURL2/>
+    <SEE3/>
+    <SEEURL3/>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>intranetlo intranet install xml xslt</TAGS>
+    <INDEX>2</INDEX>
+  </ITEM> 
+  <ITEM>
+    <ID>3</ID>
+    <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[tiny-tools]]></PROJECT>
     <PROJECTURL>https://github.com/dtmf7133/tiny-tools</PROJECTURL>
     <DESC><![CDATA[Tiny tools for OpenBSD - MIT]]></DESC>
@@ -72,10 +97,10 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TYPE>project</TYPE>
     <CAT>info</CAT>
     <TAGS>tiny-tools unix openbsd toolset tools shell</TAGS>
-    <INDEX>2</INDEX>
+    <INDEX>3</INDEX>
   </ITEM>
   <ITEM>
-    <ID>3</ID>
+    <ID>4</ID>
     <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[Homogram]]></PROJECT>
     <PROJECTURL>https://github.com/dtmf7133/Homogram</PROJECTURL>
@@ -97,10 +122,10 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TYPE>project</TYPE>
     <CAT>info</CAT>
     <TAGS>homogram image photo sharing instagramlike onpremise php</TAGS>
-    <INDEX>3</INDEX>
+    <INDEX>4</INDEX>
   </ITEM>
   <ITEM>
-    <ID>4</ID>
+    <ID>5</ID>
     <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[Homomm]]></PROJECT>
     <PROJECTURL>https://github.com/dtmf7133/Homomm</PROJECTURL>
@@ -122,10 +147,10 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TYPE>project</TYPE>
     <CAT>info</CAT>
     <TAGS>homomm web multimedia solution messaging onpremise whatsapp-like php</TAGS>
-    <INDEX>4</INDEX>
+    <INDEX>5</INDEX>
   </ITEM>
   <ITEM>
-    <ID>5</ID>
+    <ID>6</ID>
     <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[JohnDoe-Page]]></PROJECT>
     <PROJECTURL>http://johndoe-page.numode-foss.eu/</PROJECTURL>
@@ -147,10 +172,10 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TYPE>project</TYPE>
     <CAT>info</CAT>
     <TAGS>johndoe-page website web static presence web-presence xml xslt</TAGS>
-    <INDEX>5</INDEX>
+    <INDEX>6</INDEX>
   </ITEM>
   <ITEM>
-    <ID>6</ID>
+    <ID>7</ID>
     <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[AvatarFree]]></PROJECT>
     <PROJECTURL>https://github.com/dtmf7133/AvatarFree</PROJECTURL>
@@ -172,10 +197,10 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TYPE>project</TYPE>
     <CAT>info</CAT>
     <TAGS>avatarfree blog social free presence onpremise php</TAGS>
-    <INDEX>6</INDEX>
+    <INDEX>7</INDEX>
   </ITEM>
   <ITEM>
-    <ID>7</ID>
+    <ID>8</ID>
     <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[FloatingBuds]]></PROJECT>
     <PROJECTURL>https://github.com/dtmf7133/FloatingBuds</PROJECTURL>
@@ -197,10 +222,10 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TYPE>project</TYPE>
     <CAT>info</CAT>
     <TAGS>floatingbuds uri-based conversation buddies php</TAGS>
-    <INDEX>7</INDEX>
+    <INDEX>8</INDEX>
   </ITEM>
   <ITEM>
-    <ID>8</ID>
+    <ID>9</ID>
     <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[FastErr]]></PROJECT>
     <PROJECTURL>https://github.com/dtmf7133/FastErr</PROJECTURL>
@@ -222,10 +247,10 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TYPE>project</TYPE>
     <CAT>info</CAT>
     <TAGS>fasterr class opensource fast error php</TAGS>
-    <INDEX>8</INDEX>
+    <INDEX>9</INDEX>
   </ITEM>
   <ITEM>
-    <ID>9</ID>
+    <ID>10</ID>
     <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[FastMySql]]></PROJECT>
     <PROJECTURL>https://github.com/dtmf7133/FastMySql</PROJECTURL>
@@ -247,10 +272,10 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TYPE>project</TYPE>
     <CAT>info</CAT>
     <TAGS>fastmysql class opensource fast db php</TAGS>
-    <INDEX>9</INDEX>
+    <INDEX>10</INDEX>
   </ITEM>
   <ITEM>
-    <ID>10</ID>
+    <ID>11</ID>
     <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[FastCached]]></PROJECT>
     <PROJECTURL>https://github.com/dtmf7133/FastCached</PROJECTURL>
@@ -272,10 +297,10 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TYPE>project</TYPE>
     <CAT>info</CAT>
     <TAGS>fastcached class opensource fast cached memcached php</TAGS>
-    <INDEX>10</INDEX>
+    <INDEX>11</INDEX>
   </ITEM>
   <ITEM>
-    <ID>11</ID>
+    <ID>12</ID>
     <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[FastCache]]></PROJECT>
     <PROJECTURL>https://github.com/dtmf7133/FastCache</PROJECTURL>
@@ -297,10 +322,10 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TYPE>project</TYPE>
     <CAT>info</CAT>
     <TAGS>fastcache class opensource fast cache memcached php</TAGS>
-    <INDEX>11</INDEX>
+    <INDEX>12</INDEX>
   </ITEM>
   <ITEM>
-    <ID>12</ID>
+    <ID>13</ID>
     <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[FastPagination]]></PROJECT>
     <PROJECTURL>https://github.com/dtmf7133/FastPagination</PROJECTURL>
@@ -322,10 +347,10 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TYPE>project</TYPE>
     <CAT>info</CAT>
     <TAGS>fastpagination class opensource pagination php</TAGS>
-    <INDEX>12</INDEX>
+    <INDEX>13</INDEX>
   </ITEM>
   <ITEM>
-    <ID>13</ID>
+    <ID>14</ID>
     <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[FastSession]]></PROJECT>
     <PROJECTURL>https://github.com/dtmf7133/FastSession</PROJECTURL>
@@ -347,10 +372,10 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TYPE>project</TYPE>
     <CAT>info</CAT>
     <TAGS>fastsession class opensource session php</TAGS>
-    <INDEX>13</INDEX>
+    <INDEX>14</INDEX>
   </ITEM>
   <ITEM>
-    <ID>14</ID>
+    <ID>15</ID>
     <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[FastCookie]]></PROJECT>
     <PROJECTURL>https://github.com/dtmf7133/FastCookie</PROJECTURL>
@@ -372,10 +397,10 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TYPE>project</TYPE>
     <CAT>info</CAT>
     <TAGS>fastcookie class opensource cookie php</TAGS>
-    <INDEX>14</INDEX>
+    <INDEX>15</INDEX>
   </ITEM>
   <ITEM>
-    <ID>15</ID>
+    <ID>16</ID>
     <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[NavAI]]></PROJECT>
     <PROJECTURL>https://github.com/dtmf7133/NavAI</PROJECTURL>
@@ -397,10 +422,10 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TYPE>project</TYPE>
     <CAT>info</CAT>
     <TAGS>navai ai navigation mit html</TAGS>
-    <INDEX>15</INDEX>
+    <INDEX>16</INDEX>
   </ITEM>
   <ITEM>
-    <ID>16</ID>
+    <ID>17</ID>
     <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[SqueePF]]></PROJECT>
     <PROJECTURL>https://github.com/dtmf7133/SqueePF</PROJECTURL>
@@ -422,10 +447,10 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TYPE>project</TYPE>
     <CAT>info</CAT>
     <TAGS>squeepf sanity-check framework php</TAGS>
-    <INDEX>16</INDEX>
+    <INDEX>17</INDEX>
   </ITEM>
   <ITEM>
-    <ID>17</ID>
+    <ID>18</ID>
     <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[StarWorth]]></PROJECT>
     <PROJECTURL>https://github.com/dtmf7133/StarWorth</PROJECTURL>
@@ -447,10 +472,10 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TYPE>project</TYPE>
     <CAT>info</CAT>
     <TAGS>starworth project tool events facts sharing php</TAGS>
-    <INDEX>17</INDEX>
+    <INDEX>18</INDEX>
   </ITEM>
   <ITEM>
-    <ID>18</ID>
+    <ID>19</ID>
     <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[www-conf-viewer]]></PROJECT>
     <PROJECTURL>https://github.com/dtmf7133/www-conf-viewer</PROJECTURL>
@@ -472,10 +497,10 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TYPE>project</TYPE>
     <CAT>info</CAT>
     <TAGS>www-conf-viewer configuration web viwer phpfpm nginx php</TAGS>
-    <INDEX>18</INDEX>
+    <INDEX>19</INDEX>
   </ITEM>
   <ITEM>
-    <ID>19</ID>
+    <ID>20</ID>
     <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[HttpConsole]]></PROJECT>
     <PROJECTURL>https://github.com/dtmf7133/HttpConsole</PROJECTURL>
@@ -497,10 +522,10 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TYPE>project</TYPE>
     <CAT>info</CAT>
     <TAGS>httpconsole light console web terminal simple web administration management tool php</TAGS>
-    <INDEX>19</INDEX>
+    <INDEX>20</INDEX>
   </ITEM>
   <ITEM>
-    <ID>20</ID>
+    <ID>21</ID>
     <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[Actitude]]></PROJECT>
     <PROJECTURL>https://github.com/dtmf7133/Actitude</PROJECTURL>
@@ -522,10 +547,10 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TYPE>project</TYPE>
     <CAT>info</CAT>
     <TAGS>actitude support donation page hugs event registration tool php</TAGS>
-    <INDEX>20</INDEX>
+    <INDEX>21</INDEX>
   </ITEM>
   <ITEM>
-    <ID>21</ID>
+    <ID>22</ID>
     <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[Homolog]]></PROJECT>
     <PROJECTURL>https://github.com/dtmf7133/Homolog</PROJECTURL>
@@ -547,10 +572,10 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TYPE>project</TYPE>
     <CAT>info</CAT>
     <TAGS>homolog events calendar logger gpl php</TAGS>
-    <INDEX>21</INDEX>
+    <INDEX>22</INDEX>
   </ITEM>
   <ITEM>
-    <ID>22</ID>
+    <ID>23</ID>
     <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[GrandePuffo]]></PROJECT>
     <PROJECTURL>https://github.com/dtmf7133/GrandePuffo</PROJECTURL>
@@ -572,10 +597,10 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TYPE>project</TYPE>
     <CAT>info</CAT>
     <TAGS>grandepuffo web security demo php</TAGS>
-    <INDEX>22</INDEX>
+    <INDEX>23</INDEX>
   </ITEM>
   <ITEM>
-    <ID>23</ID>
+    <ID>24</ID>
     <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[LightOff]]></PROJECT>
     <PROJECTURL>https://github.com/dtmf7133/LightOff</PROJECTURL>
@@ -597,10 +622,10 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TYPE>project</TYPE>
     <CAT>info</CAT>
     <TAGS>lightoff web internet proxy imageless onpremise php</TAGS>
-    <INDEX>23</INDEX>
+    <INDEX>24</INDEX>
   </ITEM>
   <ITEM>
-    <ID>24</ID>
+    <ID>25</ID>
     <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[Timelapse]]></PROJECT>
     <PROJECTURL>https://github.com/dtmf7133/Timelapse</PROJECTURL>
@@ -622,10 +647,10 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TYPE>project</TYPE>
     <CAT>info</CAT>
     <TAGS>timelapse photo blog solution free onpremise php</TAGS>
-    <INDEX>24</INDEX>
+    <INDEX>25</INDEX>
   </ITEM>
   <ITEM>
-    <ID>25</ID>
+    <ID>26</ID>
     <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[LittleFLog]]></PROJECT>
     <PROJECTURL>https://github.com/dtmf7133/LittleFLog</PROJECTURL>
@@ -647,10 +672,10 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TYPE>project</TYPE>
     <CAT>info</CAT>
     <TAGS>littleflog free little web log tool onpremise php</TAGS>
-    <INDEX>25</INDEX>
+    <INDEX>26</INDEX>
   </ITEM>
   <ITEM>
-    <ID>26</ID>
+    <ID>27</ID>
     <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[Faceborg]]></PROJECT>
     <PROJECTURL>https://github.com/dtmf7133/Faceborg</PROJECTURL>
@@ -672,10 +697,10 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TYPE>project</TYPE>
     <CAT>info</CAT>
     <TAGS>faceborg colorful cards blog onpremise php</TAGS>
-    <INDEX>26</INDEX>
+    <INDEX>27</INDEX>
   </ITEM>
   <ITEM>
-    <ID>27</ID>
+    <ID>28</ID>
     <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[Musicing]]></PROJECT>
     <PROJECTURL>https://github.com/dtmf7133/Musicing</PROJECTURL>
@@ -697,10 +722,10 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TYPE>project</TYPE>
     <CAT>info</CAT>
     <TAGS>musicing music blog onpremise php</TAGS>
-    <INDEX>27</INDEX>
+    <INDEX>28</INDEX>
   </ITEM>
   <ITEM>
-    <ID>28</ID>
+    <ID>29</ID>
     <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[Invenktory]]></PROJECT>
     <PROJECTURL>https://github.com/dtmf7133/Invenktory</PROJECTURL>
@@ -722,10 +747,10 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TYPE>project</TYPE>
     <CAT>info</CAT>
     <TAGS>invenktory hardware invenctory tool onpremise gpl php</TAGS>
-    <INDEX>28</INDEX>
+    <INDEX>29</INDEX>
   </ITEM>
   <ITEM>
-    <ID>29</ID>
+    <ID>30</ID>
     <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[DropIn]]></PROJECT>
     <PROJECTURL>https://github.com/dtmf7133/DropIn</PROJECTURL>
@@ -747,10 +772,10 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TYPE>project</TYPE>
     <CAT>info</CAT>
     <TAGS>dropin excerpt stuff logger onpremise php</TAGS>
-    <INDEX>29</INDEX>
+    <INDEX>30</INDEX>
   </ITEM>
   <ITEM>
-    <ID>30</ID>
+    <ID>31</ID>
     <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[DropInPic]]></PROJECT>
     <PROJECTURL>https://github.com/dtmf7133/DropInPic</PROJECTURL>
@@ -772,10 +797,10 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TYPE>project</TYPE>
     <CAT>info</CAT>
     <TAGS>dropinpic picture dragndrop logger onpremise php</TAGS>
-    <INDEX>30</INDEX>
+    <INDEX>31</INDEX>
   </ITEM>
   <ITEM>
-    <ID>31</ID>
+    <ID>32</ID>
     <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[DropInSound]]></PROJECT>
     <PROJECTURL>https://github.com/dtmf7133/DropInSound</PROJECTURL>
@@ -797,10 +822,10 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TYPE>project</TYPE>
     <CAT>info</CAT>
     <TAGS>dropinsound sound dragndrop logger onpremise php</TAGS>
-    <INDEX>31</INDEX>
+    <INDEX>32</INDEX>
   </ITEM>
   <ITEM>
-    <ID>32</ID>
+    <ID>33</ID>
     <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[Msg]]></PROJECT>
     <PROJECTURL>https://github.com/dtmf7133/Msg</PROJECTURL>
@@ -822,10 +847,10 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TYPE>project</TYPE>
     <CAT>info</CAT>
     <TAGS>msg voice machine solution onpremise php</TAGS>
-    <INDEX>32</INDEX>
+    <INDEX>33</INDEX>
   </ITEM>
  <ITEM>
-    <ID>33</ID>
+    <ID>34</ID>
     <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[Buzzcing]]></PROJECT>
     <PROJECTURL>https://github.com/dtmf7133/Buzzcing</PROJECTURL>
@@ -847,10 +872,10 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TYPE>project</TYPE>
     <CAT>info</CAT>
     <TAGS>buzzcing solution listings craglists-like onpromise php</TAGS>
-    <INDEX>33</INDEX>
+    <INDEX>34</INDEX>
   </ITEM>
   <ITEM>
-    <ID>34</ID>
+    <ID>35</ID>
     <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[Placeroll]]></PROJECT>
     <PROJECTURL>https://github.com/dtmf7133/Placeroll</PROJECTURL>
@@ -872,10 +897,10 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TYPE>project</TYPE>
     <CAT>info</CAT>
     <TAGS>placeroll photo roll onpremise php</TAGS>
-    <INDEX>34</INDEX>
+    <INDEX>35</INDEX>
   </ITEM>
   <ITEM>
-    <ID>35</ID>
+    <ID>36</ID>
     <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[Fooddish]]></PROJECT>
     <PROJECTURL>https://github.com/dtmf7133/Fooddish</PROJECTURL>
@@ -897,10 +922,10 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TYPE>project</TYPE>
     <CAT>info</CAT>
     <TAGS>fooddish food gallery onpremise php</TAGS>
-    <INDEX>35</INDEX>
+    <INDEX>36</INDEX>
   </ITEM>
   <ITEM>
-    <ID>36</ID>
+    <ID>37</ID>
     <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[Sfatto]]></PROJECT>
     <PROJECTURL>https://github.com/dtmf7133/Sfatto</PROJECTURL>
@@ -922,10 +947,10 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TYPE>project</TYPE>
     <CAT>info</CAT>
     <TAGS>sfatto avatar robot status status-page php</TAGS>
-    <INDEX>36</INDEX>
+    <INDEX>37</INDEX>
   </ITEM>
   <ITEM>
-    <ID>37</ID>
+    <ID>38</ID>
     <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[TheMultiversed-org]]></PROJECT>
     <PROJECTURL>https://github.com/dtmf7133/TheMultiversed-org</PROJECTURL>
@@ -947,10 +972,10 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TYPE>project</TYPE>
     <CAT>info</CAT>
     <TAGS>themultiversed-org social homepage team toolset onpremise php</TAGS>
-    <INDEX>37</INDEX>
+    <INDEX>38</INDEX>
   </ITEM>
   <ITEM>
-    <ID>38</ID>
+    <ID>39</ID>
     <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[ApiGrave]]></PROJECT>
     <PROJECTURL>https://github.com/dtmf7133/ApiGrave</PROJECTURL>
@@ -972,10 +997,10 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TYPE>project</TYPE>
     <CAT>info</CAT>
     <TAGS>apigrave api wrapper webservices self-documenting onpremise php</TAGS>
-    <INDEX>38</INDEX>
+    <INDEX>39/INDEX>
   </ITEM>
   <ITEM>
-    <ID>39</ID>
+    <ID>40</ID>
     <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[Puzzleu]]></PROJECT>
     <PROJECTURL>https://github.com/dtmf7133/Puzzleu</PROJECTURL>
@@ -997,10 +1022,10 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TYPE>project</TYPE>
     <CAT>info</CAT>
     <TAGS>pazzleu photo gallery free onpremise php</TAGS>
-    <INDEX>39</INDEX>
+    <INDEX>40</INDEX>
   </ITEM>
   <ITEM>
-    <ID>40</ID>
+    <ID>41</ID>
     <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[SeaMiner]]></PROJECT>
     <PROJECTURL>https://github.com/dtmf7133/SeaMiner</PROJECTURL>
@@ -1022,10 +1047,10 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TYPE>project</TYPE>
     <CAT>info</CAT>
     <TAGS>seaminer semantic web mirroring onpremise php</TAGS>
-    <INDEX>40</INDEX>
+    <INDEX>41</INDEX>
   </ITEM>
   <ITEM>
-    <ID>41</ID>
+    <ID>42</ID>
     <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[Foodlet]]></PROJECT>
     <PROJECTURL>https://github.com/dtmf7133/Foodlet</PROJECTURL>
@@ -1047,10 +1072,10 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TYPE>project</TYPE>
     <CAT>info</CAT>
     <TAGS>foodlet web menu for-everyone freemium onpremise php</TAGS>
-    <INDEX>41</INDEX>
+    <INDEX>42</INDEX>
   </ITEM>
   <ITEM>
-    <ID>42</ID>
+    <ID>43</ID>
     <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[Dropjs]]></PROJECT>
     <PROJECTURL>https://github.com/dtmf7133/Dropjs</PROJECTURL>
@@ -1072,10 +1097,10 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TYPE>project</TYPE>
     <CAT>info</CAT>
     <TAGS>dropjs oop javascript library drag-and-drop javascript js</TAGS>
-    <INDEX>42</INDEX>
+    <INDEX>43</INDEX>
   </ITEM>
   <ITEM>
-    <ID>43</ID>
+    <ID>44</ID>
     <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[SqueeJS]]></PROJECT>
     <PROJECTURL>https://github.com/dtmf7133/SqueeJS</PROJECTURL>
@@ -1097,10 +1122,10 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TYPE>project</TYPE>
     <CAT>info</CAT>
     <TAGS>squeejs framework mit javascript js php</TAGS>
-    <INDEX>43</INDEX>
+    <INDEX>44</INDEX>
   </ITEM>
   <ITEM>
-    <ID>44</ID>
+    <ID>45</ID>
     <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[syscleandoc]]></PROJECT>
     <PROJECTURL>https://github.com/dtmf7133/syscleandoc</PROJECTURL>
@@ -1122,10 +1147,10 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TYPE>project</TYPE>
     <CAT>info</CAT>
     <TAGS>syscleandoc doc wrapper documenting sysclean openbsd shell</TAGS>
-    <INDEX>44</INDEX>
+    <INDEX>45</INDEX>
   </ITEM>
   <ITEM>
-    <ID>45</ID>
+    <ID>46</ID>
     <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[www-log-viewer]]></PROJECT>
     <PROJECTURL>https://github.com/dtmf7133/www-log-viewer</PROJECTURL>
@@ -1147,10 +1172,10 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TYPE>project</TYPE>
     <CAT>info</CAT>
     <TAGS>www-log-viewer shell web log-viewer openbsd php</TAGS>
-    <INDEX>45</INDEX>
+    <INDEX>46</INDEX>
   </ITEM>
   <ITEM>
-    <ID>46</ID>
+    <ID>47</ID>
     <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[pdftexter]]></PROJECT>
     <PROJECTURL>https://github.com/dtmf7133/pdftexter</PROJECTURL>
@@ -1172,10 +1197,10 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TYPE>project</TYPE>
     <CAT>info</CAT>
     <TAGS>pdftexter text pdf-viewer ksh pdf-reader openbsd shell</TAGS>
-    <INDEX>46</INDEX>
+    <INDEX>47</INDEX>
   </ITEM>
   <ITEM>
-    <ID>47</ID>
+    <ID>48</ID>
     <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[BoxToBox]]></PROJECT>
     <PROJECTURL>https://github.com/dtmf7133/BoxToBox</PROJECTURL>
@@ -1197,10 +1222,10 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TYPE>project</TYPE>
     <CAT>info</CAT>
     <TAGS>boxtobox client-side boxed dev web-developement jsfiddle-like html</TAGS>
-    <INDEX>47</INDEX>
+    <INDEX>48</INDEX>
   </ITEM>
   <ITEM>
-    <ID>48</ID>
+    <ID>49</ID>
     <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[BugzillaPHPwrapper]]></PROJECT>
     <PROJECTURL>https://github.com/dtmf7133/BugzillaPHPwrapper</PROJECTURL>
@@ -1222,10 +1247,10 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TYPE>project</TYPE>
     <CAT>info</CAT>
     <TAGS>bugzillaphpwrapper bugzilla wrapper php</TAGS>
-    <INDEX>48</INDEX>
+    <INDEX>49</INDEX>
   </ITEM>
   <ITEM>
-    <ID>49</ID>
+    <ID>50</ID>
     <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[CodeCleaner]]></PROJECT>
     <PROJECTURL>https://github.com/dtmf7133/CodeCleaner</PROJECTURL>
@@ -1247,10 +1272,10 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TYPE>project</TYPE>
     <CAT>info</CAT>
     <TAGS>codecleaner comment cleaner eraser openbsd shell</TAGS>
-    <INDEX>49</INDEX>
+    <INDEX>50</INDEX>
   </ITEM>
   <ITEM>
-    <ID>50</ID>
+    <ID>51</ID>
     <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[live2tar]]></PROJECT>
     <PROJECTURL>https://github.com/dtmf7133/live2tar</PROJECTURL>
@@ -1272,7 +1297,7 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TYPE>project</TYPE>
     <CAT>info</CAT>
     <TAGS>live2tar transfer server tool shell</TAGS>
-    <INDEX>50</INDEX>
+    <INDEX>51</INDEX>
   </ITEM>
   <ITEM>
     <ID>51</ID>
