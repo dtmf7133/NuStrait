@@ -1399,5 +1399,29 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TAGS>htmlmap javascript html map</TAGS>
     <INDEX>55</INDEX>
   </ITEM>
- 
+  <ITEM>
+    <ID>56</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[FloatingRepo]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/FloatingRepo</PROJECTURL>
+    <DESC><![CDATA[Everyone its files in the box - PHP<=8.2, MIT]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/FloatingRepo/archive/refs/tags/v1.0.5.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/FloatingRepo/archive/refs/tags/v1.0.5.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[English homepage]]></SEE1>
+    <SEEURL1>https://floatingrepo.numode-foss.eu/</SEEURL1>
+    <SEE2><![CDATA[Italian homepage]]></SEE2>
+    <SEEURL2>https://floatingrepo.numode-foss.eu/it/</SEEURL2>
+    <SEE3><![CDATA[Chinese homepage]]></SEE3>
+    <SEEURL3>https://floatingrepo.numode-foss.eu/cn/</SEEURL3>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>files sharing repo quirk</TAGS>
+    <INDEX>56</INDEX>
+  </ITEM>
 </CONTENT>
